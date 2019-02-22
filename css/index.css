@@ -94,13 +94,13 @@ p {
     align-items: center;
     padding: 20px 8%;
     font-size: 14px;
-    border: solid red;
+    
 }
 
 .img{
  display: block;
  margin: right auto;
- border: solid red;
+ 
 
 }
 
